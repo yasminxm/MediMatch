@@ -14,6 +14,7 @@ MediMatch is an information retrieval search engine that matches user symptoms t
 
 - `medimatch.py` – Main Python program
 - `HealthSearchEngineData` – Dataset used for search results
+- `Medimatch_Final.ipynb` - Google Colab notebook
 
 ## Purpose
 
@@ -21,9 +22,10 @@ This project was created to explore information retrieval, search engine logic, 
 
 ## How to run
 
-1. Open the notebook in Google Colab
-2. Run all cells
-3. Enter a symtom when prompted
+1. Open the notebook `Medimatch_Final.ipynb` in Google Colab
+2. Download files `HealthSearchEngineData`
+3. Run all cells
+4. Enter a symtom when prompted
 
 ## Technologies Used
 
