@@ -19,6 +19,12 @@ MediMatch is an information retrieval search engine that matches user symptoms t
 
 This project was created to explore information retrieval, search engine logic, and healthcare-focused data matching using Python.
 
+## How to run
+
+1. Open the notebook in Google Colab
+2. Run all cells
+3. Enter a symtom when prompted
+
 ## Technologies Used
 
 - Python
